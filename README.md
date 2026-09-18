@@ -1,6 +1,6 @@
 # What is T7x ☄️
 
-T7x is a game modification for Call of Duty: Black Ops 3.  
+T7x is a game modification for Call of Duty: Black Ops 3.
 The Steam version of Black Ops 3 is required to be owned and installed for T7x to work. You can get it from <a href="https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/">here</a>.
 
 ## Writeups & Articles
@@ -10,7 +10,7 @@ The Steam version of Black Ops 3 is required to be owned and installed for T7x t
 
 ## Credits
 
-- Thanks to <a href="https://github.com/shiversoftdev">@shiversoftdev</a> for providing the fixes from his <a href="https://github.com/shiversoftdev/t7patch">community patch</a>
+- Thanks to <a href="https://github.com/shiversoftdev">@shiversoftdev</a> for providing the fixes from her <a href="https://github.com/shiversoftdev/t7patch">community patch</a>. Rest in peace.
 
 ## Disclaimer
 
@@ -18,4 +18,3 @@ This software has been created purely for the purposes of
 academic research. It is not intended to be used to harm
 others. Project maintainers are not responsible or
 liable for misuse of the software. Use responsibly.
-
